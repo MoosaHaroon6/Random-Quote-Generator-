@@ -1,2 +1,22 @@
-# Random-Quote-Generator-
-The Random Quote Generator is a React app that fetches and displays random quotes and their authors from an API. It is built using React, with state management for storing the quote and author, and uses the useEffect hook to fetch data when the component loads.
+# clone 
+ git clone <repoUrl>
+
+# install shadcn 
+ // npx shadcn@latest init -d
+
+# packages (shadcn)
+   => install button
+   => install toast
+   => install card
+   => install label
+   => install toaster
+
+# node_modules
+ // npm i
+
+# Api
+ // http://api.quotable.io/random
+
+# run 
+ // npm run dev 
+  
